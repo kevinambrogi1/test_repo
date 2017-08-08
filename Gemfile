@@ -26,6 +26,7 @@ gem 'puma', '~> 3.7'
 # gem 'rack-cors'
 
 gem 'bcrypt', '~> 3.1.7'
+gem 'jwt'
 
 group :test do
   gem 'factory_girl_rails', '~> 4.0'
